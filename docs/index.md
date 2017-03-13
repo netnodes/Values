@@ -1,9 +1,12 @@
-## Our Policies
+## Our Values
 
-[Environmental Policy](netnodes_environmental_policy)
 
-Data Protection Policy
+[Corporate & Social Responsibility](corporate_social_responsibility)
 
-Corporate & Social Responsibility Policy
+[Data Protection & Privacy](privacy)
 
-Equal Opportunities Policy
+[Equal Opportunities](equal_opportunities)
+
+[Environmental](environmental)
+
+[Terms of Sale](terms)
