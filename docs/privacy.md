@@ -1,7 +1,7 @@
 
-###Privacy Policy
+##Privacy Policy
 
-####1. Introduction
+### 1. Introduction
 This document sets out the obligations of NetNodes Limited with regard to data protection and the rights of people with whom it works in respect of their personal data under the Data Protection Act 1998 (“the Act”).
 
 This Policy shall set out procedures which are to be followed when dealing with personal data.  The procedures set out herein must be followed by the Company, its employees, contractors, agents, consultants, partners or other parties working on behalf of the Company.
@@ -9,7 +9,7 @@ This Policy shall set out procedures which are to be followed when dealing with 
 The Company views the correct and lawful handling of personal data as key to its success and dealings with third parties.  The Company shall ensure that it handles all personal data correctly and lawfully.
 
 
-####2. The Data Protection Principles
+### 2. The Data Protection Principles
 This Policy aims to ensure compliance with the Act.  The Act sets out eight principles with which any party handling personal data must comply.  All personal data:
 
 - 2.1	Must be processed fairly and lawfully (and shall not be processed unless certain conditions are met);
@@ -28,7 +28,7 @@ This Policy aims to ensure compliance with the Act.  The Act sets out eight prin
 
 - 2.8	Must not be transferred to a country or territory outside of the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.
 
-####3. Rights of Data Subjects
+### 3. Rights of Data Subjects
 Under the Act, data subjects have the following rights:
 
 - The right to be informed that their personal data is being processed;
@@ -39,12 +39,12 @@ Under the Act, data subjects have the following rights:
 
 - The right to rectify, block, erase or destroy incorrect personal data.
 
-####4.	Personal Data
+### 4.	Personal Data
 Personal data is defined by the Act as data which relates to a living individual who can be identified from that data or from that data and other information which is in the possession of, or is likely to come into the possession of, the data controller, and includes any expression of opinion about the individual and any indication of the intentions of the data controller or any other person in respect of the individual.
 The Act also defines “sensitive personal data” as personal data relating to the racial or ethnic origin of the data subject; their political opinions; their religious (or similar) beliefs; trade union membership; their physical or mental health condition; their sexual life; the commission or alleged commission by them of any offence; or any proceedings for any offence committed or alleged to have been committed by them, the disposal of such proceedings or the sentence of any court in such proceedings.
 The Company only holds personal data which is directly relevant to its dealings with a given data subject.  That data will be held and processed in accordance with the data protection principles and with this Policy.
 
-####5.	Processing Personal Data
+### 5.	Processing Personal Data
 Any and all personal data collected by the Company (including that detailed in Section 4 of this Policy) is collected in order to ensure that the Company can facilitate efficient transactions with third parties including, but not limited to, its customers, partners, associates and affiliates and efficiently manage its employees, contractors, agents and consultants.  Personal data shall also be used by the Company in meeting any and all relevant obligations imposed by law.
 
 
@@ -68,7 +68,7 @@ The Company shall ensure that:
 
 - All data subjects can exercise their rights set out above in Section 3 and more fully in the Act.
 
-####6.	Data Protection Procedures
+### 6.	Data Protection Procedures
 The Company shall ensure that all of its employees, contractors, agents, consultants, partners or other parties working on behalf of the Company comply with the following when processing and / or transmitting personal data:
 
 - All emails containing personal data must be encrypted;
@@ -87,7 +87,7 @@ The Company shall ensure that all of its employees, contractors, agents, consult
 
 - All passwords used to protect personal data should be changed regularly and should not use words or phrases which can be easily guessed or otherwise compromised.
 
-####7.	Organisational Measures
+### 7.	Organisational Measures
 The Company shall ensure that the following measures are taken with respect to the collection, holding and processing of personal data:
 
 - A designated officer (“the Designated Officer”) within the Company shall be appointed with the specific responsibility of overseeing data protection and ensuring compliance with the Act.
@@ -108,7 +108,7 @@ The Company shall ensure that the following measures are taken with respect to t
 
 - Where any contractor, agent, consultant, partner or other party working on behalf of the Company handling personal data fails in their obligations under this Policy that party shall indemnify and hold harmless the Company against any costs, liability, damages, loss, claims or proceedings which may arise out of that failure.
 
-####8.	Access by Data Subjects
+### 8.	Access by Data Subjects
 A data subject may make a subject access request (“SAR”) at any time to see the information which the Company holds about them.
 
 - SARs must be made in writing, accompanied by the correct fee.
@@ -126,7 +126,7 @@ Upon receipt of a SAR the Company shall have a maximum period of 40 days within 
 
   - Details of any technical terminology or codes.
 
-####9. Notification to the Information Commissioner’s Office
+### 9. Notification to the Information Commissioner’s Office
 As a data controller, the Company is required to notify the Information Commissioner’s Office that it is processing personal data.  The Company is registered in the register of data controllers.
 
 Data controllers must renew their notification with the Information Commissioner’s Office on an annual basis.  Failure to notify constitutes a criminal offence.
@@ -135,5 +135,5 @@ Any changes to the register must be notified to the Information Commissioner’s
 The Designated Officer shall be responsible for notifying and updating the Information Commissioner’s Office.
 
 
-####10. Implementation of Policy
+### 10. Implementation of Policy
 This Policy shall be deemed effective as of 1 January 2012.  No part of this Policy shall have retroactive effect and shall thus apply only to matters occurring on or after this date.
