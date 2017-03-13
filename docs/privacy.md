@@ -1,5 +1,5 @@
 
-##Privacy Policy
+## Privacy Policy
 
 ### 1. Introduction
 This document sets out the obligations of NetNodes Limited with regard to data protection and the rights of people with whom it works in respect of their personal data under the Data Protection Act 1998 (“the Act”).
