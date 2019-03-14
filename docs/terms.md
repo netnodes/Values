@@ -10,7 +10,7 @@ Any order placed by a Customer shall constitute an offer to Contract subject to 
 
 - "SERVICE" means the services to be provided under this agreement as described in the services part of this document or used by NetNodes Limited as part of such service.
 
-- "NetNodes" means NetNodes Limited, whose registered office is at 32 Whetstone Close, Birmingham, B15 2QN, the Supplier
+- "NetNodes" means NetNodes Limited, whose registered office is at Coed Y Dwr, Oldwalls SA3 1HA, the Supplier
 
 - "WE, US, OUR" etc refer to NetNodes.
 
