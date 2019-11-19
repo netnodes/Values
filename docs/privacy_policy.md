@@ -5,11 +5,17 @@ This Privacy Policy describes how NetNodes Limited and its affiliates ("DoorFlow
 
 ### A. Information You Provide
 
-Account Registration. When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number. If you choose to refer a friend to our Services, we may also collect your friend’s email address so that we may send them a referral or promotional code to sign up for our Services.
+#### Account Registration
 
-Payment Information. When you add your financial account information to your Account, that information is directed to our third-party payment processor. We do not store your financial account information on our systems; however, we have access to, and may retain, subscriber information through our third-party payment processor.
+When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number. If you choose to refer a friend to our Services, we may also collect your friend’s email address so that we may send them a referral or promotional code to sign up for our Services.
 
-Communications. If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. We may also receive a confirmation when you open an email from us.
+#### Payment Information
+
+When you add your financial account information to your Account, that information is directed to our third-party payment processor. We do not store your financial account information on our systems; however, we have access to, and may retain, subscriber information through our third-party payment processor.
+
+#### Communications
+
+If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. We may also receive a confirmation when you open an email from us.
 
 The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
@@ -20,7 +26,10 @@ DoorFlow provides the capability for End Users to store basic personal informati
 ### B. Information We Collect When You Use Our Services.
 
 #### Log Information
-DoorFlow records the actions of system Administrators, as well as the status and the settings of various devices that have been configured to operate with DoorFlow. Customer Data entered in a DoorFlow account by End Users or collected through the operation of the system are for the exclusive use of our End Users. DoorFlow staff may access Customer Data only for the purposes of providing and supporting the functionality of the Products, preventing or addressing service or technical problems, or as may be required by law.
+
+DoorFlow records the actions of system Administrators and API Users, as well as the status and the settings of various devices that have been configured to operate with DoorFlow. 
+
+Customer Data entered in a DoorFlow account by End Users or collected through the operation of the system are for the exclusive use of our End Users. DoorFlow staff may access Customer Data only for the purposes of providing and supporting the functionality of the Products, preventing or addressing service or technical problems, or as may be required by law.
 
 #### Information generated from events
 
@@ -28,7 +37,9 @@ DoorFlow collects access control event data - for example that an access card wa
 
 #### Cookies and Other Tracking Technologies
 
-As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. To collect this information, a cookie may be set on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognise you. We store information that we collect through cookies, log files, and/or clear gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area ("EEA"), the information referenced above in this paragraph may be considered personal information under applicable data protection laws.
+As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. 
+
+To collect this information, a cookie may be set on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognise you. We store information that we collect through cookies, log files, and/or clear gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area ("EEA"), the information referenced above in this paragraph may be considered personal information under applicable data protection laws.
 
 ### C. Information We Receive from Third Parties
 
@@ -58,13 +69,29 @@ Analytics. We use analytics providers such as Google Analytics. Google Analytics
 
 Business Transfers. Information may be disclosed and otherwise transferred to any potential acquirer, successor, or assignee as part of any proposed merger, acquisition, debt financing, sale of assets, or similar transaction, or in the event of insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets.
 
-As Required By Law and Similar Disclosures. We may also share information to (i) satisfy any applicable law, regulation, legal process, or governmental request; (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof; (iii) detect, prevent, or otherwise address fraud, security, or technical issues; (iv) respond to your requests; or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
+As Required By Law and Similar Disclosures. We may also share information to
+
+a. satisfy any applicable law, regulation, legal process, or governmental request;
+
+b. enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof;
+
+c. detect, prevent, or otherwise address fraud, security, or technical issues;
+
+d. respond to your requests; or
+
+e. protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organisations for fraud protection and spam/malware prevention.
 
 ## 4. LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION
 
 Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
 
-However, we will normally collect personal information from you only (i) where we need the personal information to perform a contract with you; (ii) where the processing is in our legitimate interests and not overridden by your rights; or (iii) where we have your consent to do so.  We have a legitimate interest in operating our Services and communicating with you as necessary to provide these Services, for example when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities.
+However, we will normally collect personal information from you only
+
+a. where we need the personal information to perform a contract with you;
+
+b. where the processing is in our legitimate interests and not overridden by your rights; or
+
+c. where we have your consent to do so.  We have a legitimate interest in operating our Services and communicating with you as necessary to provide these Services, for example when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities.
 
 In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person.
 
@@ -82,7 +109,7 @@ DoorFlow is committed to protecting your information. To do so, we employ a vari
 
 We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax, or accounting requirements).
 
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
 ## 8. ACCESS
 
