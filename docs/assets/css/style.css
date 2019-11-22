@@ -3,14 +3,14 @@
 }
 
 :root {
-  --color__primary: 16,64,73;
-  --color__secondary: 20,163,199;
-  --font__regular: 'AvertaPE__Regular';
-  --font__bold: 'Ubuntu';
+  --color__primary: 41,45,51;
+  --color__secondary: 85,85,85;
+  --color__accent: 72,131,227;
+  --font: 'Ubuntu';
 }
 
 body {
-  font-family: 'Ubuntu';
+  font-family: var(--font);
 }
 
 html,
@@ -20,7 +20,7 @@ body {
   height: 100%;
   font-size: 8px;
   font-weight: 300;
-  font-family: var(--font__regular);
+  font-family: var(--font);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -48,7 +48,11 @@ table {
   margin: 0;
 }
 
+p + p {
+  margin-top: 4rem;
+}
+
 .wrapper {
-  max-width: 1200px;
+  max-width: 800px;
   padding: 0 4rem;
 }
