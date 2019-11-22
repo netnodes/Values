@@ -2,6 +2,53 @@
   box-sizing: border-box;
 }
 
+:root {
+  --color__primary: 16,64,73;
+  --color__secondary: 20,163,199;
+  --font__regular: 'AvertaPE__Regular';
+  --font__bold: 'Ubuntu';
+}
+
 body {
   font-family: 'Ubuntu';
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-size: 8px;
+  font-weight: 300;
+  font-family: var(--font__regular);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+p,
+span,
+small,
+ul,
+ol,
+dl,
+label,
+select,
+input,
+button,
+table {
+  font-size: 2rem;
+  font-weight: 300;
+  margin: 0;
+}
+
+.wrapper {
+  max-width: 1200px;
+  padding: 0 4rem;
 }
