@@ -1,7 +1,3 @@
----
-go_back: true
----
-
 ## Corporate
 
 * [Corporate & Social Responsibility](corporate_social_responsibility)
