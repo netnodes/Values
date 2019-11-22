@@ -48,11 +48,25 @@ table {
   margin: 0;
 }
 
-p + p {
-  margin-top: 4rem;
+h2,
+ul,
+p {
+  margin-top: 3rem;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-position: inside;
+  line-height: 3rem;
 }
 
 .wrapper {
   max-width: 800px;
   padding: 0 4rem;
+}
+
+header {
+  border-bottom: 1px solid #efefef;
+  padding: 4rem 0;
 }
