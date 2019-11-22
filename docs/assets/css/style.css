@@ -23,6 +23,7 @@ body {
   font-family: var(--font);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: rgba(var(--color__primary), 1);
 }
 
 h1,
@@ -48,22 +49,63 @@ table {
   margin: 0;
 }
 
+a {
+  color: rgba(var(--color__accent), 1);
+  text-decoration: none;
+}
+
 h2,
 ul,
+ol,
 p {
   margin-top: 3rem;
+  line-height: 3rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+p,
+li {
+  color: rgba(var(--color__secondary), 1);
+  line-height: 3rem;
 }
 
 ul {
-  margin: 0;
+  margin: 3rem 0 0 0;
   padding: 0;
   list-style-position: inside;
-  line-height: 3rem;
+}
+
+ul li p {
+  margin: 0;
+}
+
+ul li,
+ol li {
+  margin-top: 2rem;
+}
+
+ul {
+  margin-left: 3rem;
+}
+
+ul li::before {
+  position: absolute;
+  left: 0;
+  top: 1.2rem;
+  width: 4px;
+  height: 4px;
+  background: rgba(var(--color__secondary), 1);
+  display: block;
 }
 
 .wrapper {
   max-width: 800px;
   padding: 0 4rem;
+  margin: 0 auto;
 }
 
 header {
