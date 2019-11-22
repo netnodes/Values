@@ -1,5 +1,5 @@
 ---
-style: index
+index: true
 ---
 
 ## Corporate
