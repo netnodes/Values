@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 ## Corporate
 
 * [Corporate & Social Responsibility](corporate_social_responsibility)
