@@ -1,3 +1,7 @@
+---
+go_back: true
+---
+
 ## General Terms and Conditions
 ​
 ### Definitions

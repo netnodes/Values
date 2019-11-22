@@ -1,3 +1,7 @@
+---
+go_back: true
+---
+
 ## NetNodes CORPORATE SOCIAL RESPONSIBILITY POLICY
 
 NetNodes is committed to the highest standards of corporate citizenship. Our culture and values are rooted in service, integrity, and taking personal responsibility for our actions, outcomes, and reputation.

@@ -1,3 +1,7 @@
+---
+go_back: true
+---
+
 ## NetNodes - Our environmental policy
 
 ### Aim of the environmental policy

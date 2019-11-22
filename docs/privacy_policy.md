@@ -1,3 +1,7 @@
+---
+go_back: true
+---
+
 This Privacy Policy describes how NetNodes Limited and its affiliates ("DoorFlow," "we," "our" or "us") collect, use, and share information in connection with your use of our websites (including www.doorflow.com), services, and applications (collectively, the "Services"). This Privacy Policy (the "Privacy Policy") does not apply to information our customers may process when using our Services.
 
 
@@ -27,7 +31,7 @@ DoorFlow provides the capability for End Users to store basic personal informati
 
 #### Log Information
 
-DoorFlow records the actions of system Administrators and API Users, as well as the status and the settings of various devices that have been configured to operate with DoorFlow. 
+DoorFlow records the actions of system Administrators and API Users, as well as the status and the settings of various devices that have been configured to operate with DoorFlow.
 
 Customer Data entered in a DoorFlow account by End Users or collected through the operation of the system are for the exclusive use of our End Users. DoorFlow staff may access Customer Data only for the purposes of providing and supporting the functionality of the Products, preventing or addressing service or technical problems, or as may be required by law.
 
@@ -37,7 +41,7 @@ DoorFlow collects access control event data - for example that an access card wa
 
 #### Cookies and Other Tracking Technologies
 
-As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. 
+As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL.
 
 To collect this information, a cookie may be set on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognise you. We store information that we collect through cookies, log files, and/or clear gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area ("EEA"), the information referenced above in this paragraph may be considered personal information under applicable data protection laws.
 
