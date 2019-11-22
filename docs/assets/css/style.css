@@ -54,6 +54,7 @@ a {
   text-decoration: none;
 }
 
+h1,
 h2,
 h3,
 h4,
@@ -62,6 +63,11 @@ ol,
 p {
   margin-top: 3rem;
   line-height: 3rem;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: bold;
 }
 
 h2 {
@@ -94,7 +100,12 @@ ul {
   margin-left: 3rem;
 }
 
+ul li {
+  position: relative;
+}
+
 ul li::before {
+  content: "";
   position: absolute;
   left: 0;
   top: 1.2rem;
@@ -113,4 +124,8 @@ ul li::before {
 header {
   border-bottom: 1px solid #efefef;
   padding: 4rem 0;
+}
+
+section {
+  padding-bottom: 4rem;
 }
