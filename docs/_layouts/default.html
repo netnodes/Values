@@ -25,9 +25,11 @@
       </header>
       <section>
 
-        {% if site.params.index %}
+        {% if page.style %}
           2
         {% endif %}
+
+        {{ page.style }}
 
         {{ content }}
 
