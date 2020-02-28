@@ -1,12 +1,14 @@
-## Our Values
+## Corporate
 
+* [Corporate & Social Responsibility](corporate_social_responsibility)
+* [Data Protection & Privacy](privacy_policy)
+* [Equal Opportunities](equal_opportunities)
+* [Environmental](environmental)
 
-[Corporate & Social Responsibility](corporate_social_responsibility)
+## Commercial
 
-[Data Protection & Privacy](privacy)
+* [Terms of Sale](terms)
 
-[Equal Opportunities](equal_opportunities)
+## Services
 
-[Environmental](environmental)
-
-[Terms of Sale](terms)
+* [DoorFlow Terms of Service](terms_of_service)
