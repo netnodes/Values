@@ -6,7 +6,7 @@ go_back: true
 
 By using the doorflow.com web site (“Service”), or any services of NetNodes (“NetNodes”), you are agreeing to be bound by the following terms and conditions (“Terms of Service”). NetNodes is a trading name of NetNodes Limited.
 
-NetNodes reserves the right to update and change the Terms of Service from time to time without notice. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to the Terms of Service. Continued use of the Service after any such changes shall constitute your consent to such changes. You can review the most current version of the Terms of Service at any time at: https://www.doorflow.com/about/terms
+NetNodes reserves the right to update and change the Terms of Service from time to time without notice. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to the Terms of Service. Continued use of the Service after any such changes shall constitute your consent to such changes. You can review the most current version of the Terms of Service at any time at: [policy.doorflow.com](https://policy.doorflow.com/)
 
 Violation of any of the terms below will result in the termination of your Account. While NetNodes prohibits such conduct and Content on the Service, you understand and agree that NetNodes cannot be responsible for the Content posted on the Service and you nonetheless may be exposed to such materials. You agree to use the Service at your own risk.
 
