@@ -1,4 +1,4 @@
-## NetNodes - Our environmental policy
+## Environment
 
 ### Aim of the environmental policy
 

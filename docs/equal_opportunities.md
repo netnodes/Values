@@ -1,4 +1,4 @@
-## NetNodes Equal Opportunities Policy
+## Equal Opportunities
 
 NetNodes is an equal opportunity employer and is committed to a policy of treating all its employees and job applicants equally. The Company will avoid unlawful discrimination in all aspects of employment including recruitment and selection, promotion, transfer, opportunities for training, pay and benefits, other terms of employment, discipline, selection for redundancy and dismissal.
 It is the policy of the Company to take all reasonable steps to employ and promote employees on the basis of their abilities and qualifications without regard to age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race (including colour, nationality and ethnic or national origins), religion or belief, sex and/or sexual orientation. In this policy, these are known as the ‘protected characteristics’. The Company will appoint, train, develop and promote on the basis of merit and ability alone.
