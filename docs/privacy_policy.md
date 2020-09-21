@@ -155,4 +155,4 @@ This Privacy Policy may be modified from time to time, so please review it frequ
 ### Contact Us
 If you have any questions or concerns about this Privacy Policy, please feel free to email us at privacy@doorflow.com.
 
-The data controller of your personal information is NetNodes Limited.
+DoorFlow is developed, operated and maintained by NetNodes Limited. The Data Controller of your personal information is NetNodes Limited.
