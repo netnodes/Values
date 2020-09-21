@@ -123,7 +123,7 @@ To protect your privacy and security, we may also take reasonable steps to verif
 
 ## 9. HOW GDPR RELATES TO DOORFLOW
 
-In the context of the GDPR, individuals with data stored in DoorFlow or individuals using DoorFlow applications are considered Data Subjects. DoorFlow end-users and in some cases DoorFlow Resellers are considered Data Controllers. DoorFlow is a Data Processor.
+In the context of the GDPR, individuals with data stored in DoorFlow or individuals using DoorFlow applications are considered Data Subjects. DoorFlow account holders  and in some cases DoorFlow Resellers are considered Data Controllers. DoorFlow is a Data Processor.
 
 As a Data Processor, DoorFlow is the responsible custodian of the Data Subject’s data, performing this role on behalf of the Data Controller. The Data Controller is completely responsible to determine what data is captured, stored and processed within DoorFlow. The Data Controller is the owner of the data. DoorFlow does not rent, share, disclose or sell any data owned by the Data Controller.
 
@@ -133,7 +133,7 @@ Data Subject requests to purge data from DoorFlow is subject to Terms of Service
 
 In cases where Data Subjects use DoorFlow websites or applications directly, DoorFlow is the Data Controller and as such is responsible for gaining explicit or unambiguous consent based on the type of data collected.
 
-Data Subject requests to purge data collected directly by DoorFlow will be adjudicated by DoorFlow staff.
+Data Subject requests to purge data collected directly by DoorFlow will be adjudicated by DoorFlow staff in liaison with the account holder.
 
 The GDPR includes provisions that grant Data Subjects portability rights in their personal data. Any personal data we store on behalf of Data Controllers belongs to the Data Subjects'. We will coordinate with Data Subjects and, as applicable Data Controllers, when requested to delete or port data. We provide tools for portability and are continually working to enhance our data export capabilities.
 
@@ -153,6 +153,6 @@ Children under 13 are prohibited from using our Services. If you learn that a ch
 This Privacy Policy may be modified from time to time, so please review it frequently. Changes to this Privacy Policy will be posted on our websites. If we materially change the ways in which we use or share personal information previously collected from you through our Services, we will notify you through our Services, by email, or other communication.
 
 ### Contact Us
-If you have any questions or concerns about this Privacy Policy, please feel free to email us at privacy@ddoorflow.com.
+If you have any questions or concerns about this Privacy Policy, please feel free to email us at privacy@doorflow.com.
 
 The data controller of your personal information is NetNodes Limited.
