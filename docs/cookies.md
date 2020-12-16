@@ -3,7 +3,7 @@ go_back: true
 ---
 
 
-## Cookie Notice
+## Use of Cookies
 
 Last Updated: December 16, 2020
 
