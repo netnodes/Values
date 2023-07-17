@@ -2,8 +2,6 @@
 go_back: true
 ---
 
-<a href="javascript:history.back()">Go Back</a>
-
 ## NetNodes - Our environmental policy
 
 ### Aim of the environmental policy
