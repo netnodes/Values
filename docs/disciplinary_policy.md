@@ -2,7 +2,7 @@
 go_back: true
 ---
 
-## NetNodes Disciplinary Policy & Procedure
+## NetNodes Disciplinary Policy & Procedures
 
 ### Introduction
 
