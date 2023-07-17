@@ -128,10 +128,10 @@ Arrangements:
 
 ### General Arrangements
 
-Further Health and Safety Executive guidance can be downloaded from the [HSE website](www.hse.gov.uk/pubns)
+Further Health and Safety Executive guidance can be downloaded from the [HSE website](https://www.hse.gov.uk/pubns)
 
 #### Health and safety law information  
-More information is available at [HSE Health and Safety Law leaflet (link to hse.gov.uk)](http://www.hse.gov.uk/pubns/books/lawleaflet.htm).
+More information is available at [HSE Health and Safety Law leaflet (PDF)](https://policy.netnodes.net/assets/files/HSE_Health_and_Safety_Law.pdf).
 
 #### Employers Liability Insurance
 The annual certificate is available to all employees on request.
