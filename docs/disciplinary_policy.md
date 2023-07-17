@@ -12,7 +12,7 @@ NetNodes aims to be an organisation that values, recognises and responds to the 
 
 ### Purpose and scope
 
-It is essential that certain standards of conduct and performance are maintained to protect the smooth running of NetNodes and the wellbeing of all its employees. The APP Disciplinary Policy is intended to ensure fair and equitable treatment of employees where there are instances of misconduct or where job performance falls below an acceptable level.
+It is essential that certain standards of conduct and performance are maintained to protect the smooth running of NetNodes and the wellbeing of all its employees. The NetNodes Disciplinary Policy is intended to ensure fair and equitable treatment of employees where there are instances of misconduct or where job performance falls below an acceptable level.
 
 All employees are required to conduct themselves in a manner consistent with the effective and efficient operation of the organisation and should recognise and uphold high standards of conduct and performance in their dealings with each other, suppliers and members of the public who access our services. This Disciplinary Policy and its subsequent procedures therefore apply to all employees, irrespective of their length of service or role.
 
@@ -52,11 +52,11 @@ An informal oral warning may be recorded on an employee's file by means of a fil
 
 	If either the employee or their chosen companion is unable to attend any formal hearing under this procedure for a reason that was not foreseeable at the time the hearing was arranged, we will attempt to rearrange the hearing for a date within five working days of the original planned date. However, the employee is expected to take all reasonable steps to attend the hearing on the appointed date and at the appointed time. We reserve the right to make a decision in the employee’s absence based on the evidence available if the employee is unable or unwilling to attend a rearranged disciplinary or appeal hearing without good reason.
 
-	Prior to the hearing, APP will inform the employee which witnesses are to be called. 
+	Prior to the hearing, NetNodes will inform the employee which witnesses are to be called. 
 
 2. At the hearing
 
-	The person chairing the hearing (the disciplinary officer) will be accompanied by a suitable employee of APP who will act as a witness and take full notes of everything that is said. Where no internal person of sufficient seniority or confidential status is available, or where preferred, an external party may be invited to attend in this capacity.
+	The person chairing the hearing (the disciplinary officer) will be accompanied by a suitable employee of NetNodes who will act as a witness and take full notes of everything that is said. Where no internal person of sufficient seniority or confidential status is available, or where preferred, an external party may be invited to attend in this capacity.
 
 	If the employee is disabled, reasonable adjustments will be made to ensure that they are not disadvantaged at the hearing. This may include the provision of further assistance (e.g. a signer or other support) where necessary. Arrangements may also be made to assist any employee who does not have English as their first language and who may need an interpreter. 
 
@@ -129,7 +129,7 @@ Following completion of the appropriate period, the warning or improvement note 
 
 ### Authority to give disciplinary warnings, improvement notes and to dismiss
 
-The following are authorised by APP to give warnings, improvement notes or to dismiss: 
+The following are authorised by NetNodes to give warnings, improvement notes or to dismiss: 
 
 **verbal warning**:  any manager, director or trustee
 
