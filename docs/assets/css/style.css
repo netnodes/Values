@@ -160,3 +160,85 @@ header {
 section {
   padding-bottom: 4rem;
 }
+
+.cookies {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 20;
+  padding: 32px;
+  margin: 8px;
+  margin-top: 16px;
+  border-radius: 12px;
+  border-width: 1px;
+  border-color: #ffffff;
+  background-color: #E5E7EB;
+}
+
+.hidden {
+  display: none;
+}
+
+.cookie-status {
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.cookie-status p {
+  margin-bottom: 8px;
+}
+
+.cookies h3 {
+  font-size: 20px;
+  line-height: 28px;
+  margin: 0;
+}
+
+.cookies p {
+  margin-top: 16px;
+}
+
+.cookies div {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.cookies div button,
+button.review-cookie-decision {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 9999px;
+  padding: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 14px;
+  line-height: 20px;
+  line-height: 1;
+  text-decoration-line: none;
+  padding: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.cookies div button.dark,
+button.review-cookie-decision {
+  background: rgb(14, 38, 83);
+  color: #fff;
+}
+
+.cookies div button.light {
+  color: rgb(14, 38, 83);
+  background: #fff;
+}
+
+@media (min-width: 640px) {
+  .cookies {
+    margin-bottom: 16px;
+    margin-left: 16px;
+    max-width: 384px;
+  }
+}
