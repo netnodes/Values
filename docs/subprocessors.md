@@ -9,7 +9,7 @@ _Last updated:** 4 December 2025_
 
 **NetNodes Limited**, trading as **PassFlow** and **DoorFlow**, relies on the following subprocessors to deliver the Service.
 
-
+_Sub-processors exclude providers used by NetNodes for sales, marketing, communications, HR, administrative or business operational purposes, where such providers do not process Customer Data as part of the Services._
 
 ### 1. Hosting, Infrastructure & Networking
 
