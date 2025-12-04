@@ -115,12 +115,12 @@ A high-level security overview is available upon request.
 #### 6.1 Authorised Sub-processors
 Customer authorises NetNodes to engage Sub-processors necessary to provide the Services, including cloud hosting, email delivery, and support services.
 
-A current list is available at: https://policy.netnodes.net/subprocessors
+A current list is available at: [https://policy.netnodes.net/subprocessors](https://policy.netnodes.net/subprocessors)
 
 #### 6.2 Sub-processor Obligations
 NetNodes will:
 
-- Notify Customer of any material changes to sub-processors  
+- Notify customers of any changes by email and/or by posting an updated list at the URL provided.
 - Ensure sub-processors are bound by data protection terms at least as protective as this DPA  
 - Remain fully liable for its sub-processors  
 

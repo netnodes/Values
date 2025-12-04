@@ -20,7 +20,12 @@ _Last updated:** 4 December 2025_
 - **Transfer mechanism:** EU/UK hosting only; no international transfers.  
 - **Website:** digitalocean.com
 
-
+#### Matomo Cloud (InnoCraft Ltd)
+- **Service:** Privacy-focused web analytics (hosted cloud service)
+- **Locations:** EU data centres (customer-selectable; typically EU)
+- **Data processed:** Pseudonymised analytics data, device information, usage patterns
+- **Data protection:** GDPR compliant; no cross-site tracking; no data sold
+- **Notes:** Used instead of Google Analytics for privacy reasons.
 
 ### 2. Communications (Email, SMS, Voice)
 
@@ -49,20 +54,7 @@ _Last updated:** 4 December 2025_
 - **Transfer mechanism:** No transfers outside EU.  
 - **Website:** appsignal.com
 
-
-
-### 4. Analytics
-
-#### Matomo (self-hosted)
-- **Purpose:** Privacy-respecting product analytics for PassFlow and DoorFlow.  
-- **Data processed:** Pseudonymised usage metrics (IP anonymisation enabled), device type, pages visited, event data.  
-- **Location:** **Hosted by NetNodes on DigitalOcean (NL/UK)**.  
-- **Transfer mechanism:** *No transfers outside UK/EU. Data remains fully self-hosted by NetNodes.*  
-- **Website:** matomo.org
-
-
-
-### 5. Payments & Billing
+### 4. Payments & Billing
 
 #### Stripe Payments Europe Ltd
 - **Purpose:** Subscription billing and payment processing.  
@@ -87,7 +79,7 @@ _Last updated:** 4 December 2025_
 
 
 
-### 6. Identity & Access (Enterprise SSO)
+### 5. Identity & Access (Enterprise SSO)
 
 *(Used only if enabled by enterprise customers.)*
 
@@ -107,7 +99,7 @@ _Last updated:** 4 December 2025_
 
 
 
-### 7. Apple & Google Wallet Ecosystems
+### 6. Apple & Google Wallet Ecosystems
 
 #### Apple Inc.
 - **Purpose:** Delivery of Apple Wallet passes, updates, and push tokens.  
