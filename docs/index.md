@@ -1,7 +1,8 @@
 ## Corporate
 
 * [Corporate & Social Responsibility](corporate_social_responsibility)
-* [Data Protection & Privacy](privacy_policy)
+* [Privacy](privacy_policy)
+* [Data Processing Agreement](dpa)
 * [Equal Opportunities](equal_opportunities)
 * [Environmental](environmental)
 

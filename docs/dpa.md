@@ -2,7 +2,7 @@
 go_back: true
 ---
 
-## **DATA PROCESSING AGREEMENT (DPA)**  
+## Data Processing Agreement (DPA)  
 _Version 1.1 - Last Updated: December 2025_
 
 This Data Processing Agreement (“**DPA**”) forms part of any contract, order form, subscription agreement, master services agreement, or terms governing the provision of services (“**Agreement**”) between:
