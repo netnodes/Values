@@ -2,7 +2,7 @@
 go_back: true
 ---
 
-# **DATA PROCESSING AGREEMENT (DPA)**  
+## **DATA PROCESSING AGREEMENT (DPA)**  
 _Version 1.1 - Last Updated: December 2025_
 
 This Data Processing Agreement (“**DPA**”) forms part of any contract, order form, subscription agreement, master services agreement, or terms governing the provision of services (“**Agreement**”) between:
@@ -13,9 +13,9 @@ and
 
 This DPA applies where NetNodes processes Personal Data on behalf of the Customer in delivering the Services.
 
----
 
-# 1. Definitions
+
+### 1. Definitions
 
 **“Applicable Data Protection Laws”**  
 Means all laws relating to the processing of Personal Data, including:  
@@ -36,9 +36,9 @@ Means the DoorFlow and/or PassFlow software platforms, APIs, infrastructure, and
 
 All other GDPR-defined terms (e.g., “Personal Data”, “Processing”, “Data Subject”, “Controller”, “Processor”) carry their standard meaning.
 
----
 
-# 2. Roles of the Parties
+
+### 2. Roles of the Parties
 
 - **Customer** is the **Data Controller**.  
 - **NetNodes** is the **Data Processor**.  
@@ -46,11 +46,11 @@ All other GDPR-defined terms (e.g., “Personal Data”, “Processing”, “Da
 
 NetNodes will process Customer Data strictly on documented instructions.
 
----
 
-# 3. Scope of Processing
 
-### 3.1 Nature and Purpose of Processing
+### 3. Scope of Processing
+
+#### 3.1 Nature and Purpose of Processing
 NetNodes processes Customer Data only as needed to:  
 - Provide and maintain the Services  
 - Handle authentication and access control  
@@ -59,7 +59,7 @@ NetNodes processes Customer Data only as needed to:
 - Perform analytics *within the Customer’s environment* or in aggregated/anonymous form  
 - Comply with applicable law or a lawful request
 
-### 3.2 Categories of Personal Data
+#### 3.2 Categories of Personal Data
 Depending on Customer configuration:  
 - Name, email, phone, profile photo (optional)  
 - Digital pass information (PassFlow)  
@@ -69,18 +69,18 @@ Depending on Customer configuration:
 - User permissions, roles, and groups  
 - Device identifiers and API usage
 
-### 3.3 Categories of Data Subjects
+#### 3.3 Categories of Data Subjects
 - Customer’s employees  
 - Contractors and third-party staff  
 - Visitors, members, customers, tenants, or pass holders  
 - Administrators and authorised users
 
-### 3.4 Duration
+#### 3.4 Duration
 This DPA applies for the duration of the underlying Agreement, and thereafter until all Customer Data is deleted.
 
----
 
-# 4. Customer Instructions
+
+### 4. Customer Instructions
 
 NetNodes will process data only:  
 1. On documented instruction from the Customer  
@@ -89,9 +89,9 @@ NetNodes will process data only:
 
 If NetNodes believes an instruction violates data protection law, NetNodes will notify the Customer.
 
----
 
-# 5. Security Measures
+
+### 5. Security Measures
 
 NetNodes will implement and maintain industry-standard technical and organisational safeguards including, at minimum:
 
@@ -108,16 +108,16 @@ NetNodes will implement and maintain industry-standard technical and organisatio
 
 A high-level security overview is available upon request.
 
----
 
-# 6. Sub-processors
 
-### 6.1 Authorised Sub-processors
+### 6. Sub-processors
+
+#### 6.1 Authorised Sub-processors
 Customer authorises NetNodes to engage Sub-processors necessary to provide the Services, including cloud hosting, email delivery, and support services.
 
 A current list is available at: https://policy.netnodes.net/subprocessors
 
-### 6.2 Sub-processor Obligations
+#### 6.2 Sub-processor Obligations
 NetNodes will:
 
 - Notify Customer of any material changes to sub-processors  
@@ -126,9 +126,9 @@ NetNodes will:
 
 Customer may object to a new sub-processor where reasonable, and NetNodes will work in good faith to resolve the objection.
 
----
 
-# 7. International Data Transfers
+
+### 7. International Data Transfers
 
 Where Customer Data is transferred outside the UK/EEA:
 
@@ -138,9 +138,9 @@ Where Customer Data is transferred outside the UK/EEA:
 
 NetNodes will not engage in any transfer that violates Applicable Data Protection Laws.
 
----
 
-# 8. Data Subject Rights
+
+### 8. Data Subject Rights
 
 NetNodes will assist the Customer in responding to:
 
@@ -151,9 +151,9 @@ NetNodes will assist the Customer in responding to:
 
 NetNodes will not respond to Data Subject requests directly unless legally required.
 
----
 
-# 9. Personal Data Breach Notification
+
+### 9. Personal Data Breach Notification
 
 NetNodes will:
 
@@ -163,9 +163,9 @@ NetNodes will:
 
 Customer is responsible for notifying authorities or Data Subjects unless otherwise agreed.
 
----
 
-# 10. Audit Rights
+
+### 10. Audit Rights
 
 Upon reasonable notice:
 
@@ -175,9 +175,9 @@ Upon reasonable notice:
 
 Audits must not interfere with NetNodes’ operations or security posture.
 
----
 
-# 11. Data Deletion and Return
+
+### 11. Data Deletion and Return
 
 Upon termination of Services:
 
@@ -187,9 +187,9 @@ Upon termination of Services:
 
 NetNodes may retain minimal information necessary for legal, audit, or accounting obligations.
 
----
 
-# 12. Confidentiality
+
+### 12. Confidentiality
 
 NetNodes will ensure that employees and authorised personnel:
 
@@ -197,9 +197,9 @@ NetNodes will ensure that employees and authorised personnel:
 - Access Customer Data only when necessary  
 - Are trained in data protection and security
 
----
 
-# 13. Assistance with DPIAs & Compliance
+
+### 13. Assistance with DPIAs & Compliance
 
 NetNodes will cooperate as reasonably required with:
 
@@ -209,9 +209,9 @@ NetNodes will cooperate as reasonably required with:
 
 Reasonable administrative fees may apply for excessive or complex requests.
 
----
 
-# 14. CCPA/CPRA Supplemental Terms (US Customers)
+
+### 14. CCPA/CPRA Supplemental Terms (US Customers)
 
 For US customers subject to the California Consumer Privacy Act:
 
@@ -220,22 +220,22 @@ For US customers subject to the California Consumer Privacy Act:
 - NetNodes will not retain, use, disclose, or combine Customer Data for any purpose outside the Services  
 - Customer retains all consumer rights under the CCPA/CPRA  
 
----
 
-# 15. Liability
+
+### 15. Liability
 
 Liability is governed by the underlying Agreement.  
 Nothing in this DPA limits statutory rights under GDPR or CCPA.
 
----
 
-# 16. Termination
+
+### 16. Termination
 
 This DPA terminates automatically when the underlying Agreement terminates and all Customer Data is deleted.
 
----
 
-# 17. Governing Law
+
+### 17. Governing Law
 
 Where the underlying Agreement does not specify:
 
@@ -243,15 +243,15 @@ Where the underlying Agreement does not specify:
 - For US customers: the governing law of the Agreement applies  
 - For rest-of-world customers: English law applies  
 
----
 
-# 18. Order of Precedence
+
+### 18. Order of Precedence
 
 If this DPA conflicts with other terms of the Agreement, **this DPA prevails** to the extent required by data protection law.
 
----
 
-# 19. Signatures
+
+### 19. Signatures
 
 This DPA may be executed electronically or incorporated by reference into an online agreement.
 
