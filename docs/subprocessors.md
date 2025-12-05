@@ -15,56 +15,131 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 
 ## Current Sub-processors
 
-### 1. Infrastructure & Hosting
+### 1. Hosting, Infrastructure & Networking
 
-| Sub-processor | Purpose | Locations | Data Processed |
-|--------------|---------|-----------|----------------|
-| DigitalOcean LLC | Primary hosting infrastructure for application servers, databases, networking | Amsterdam (NL), London (UK) | Customer data stored or processed as part of the service |
-| Amazon Web Services (AWS) | Storage of customer images and binary assets (e.g., pass images, icon resources) using S3 in the EU region | EU region (e.g., Dublin/Frankfurt depending on configuration) | Media assets and metadata uploaded by the customer |
+#### DigitalOcean, LLC
 
-
-
-### 2. Payments & Billing
-
-| Sub-processor | Purpose | Locations | Data Processed |
-|--------------|---------|-----------|----------------|
-| Stripe, Inc. | Payments processing | EU/US | Billing details, payment metadata |
-| PayPal (Europe) S.à r.l. | Payments processing | EU | Billing details, payment metadata |
-| GoCardless Ltd | Direct debit payment processing | EU/UK | Billing details, payment metadata |
+- **Purpose:** Cloud hosting, compute, storage, networking.  
+- **Data processed:** Customer account data, application data, metadata, logs.  
+- **Regions used:** **Amsterdam (NL)** and **London (UK)**.  
+- **Transfer mechanism:** EU/UK hosting only; no international transfers.  
+- **Website:** digitalocean.com
 
 
 
-### 3. Communications
+### 2. Communications (Email, SMS, Voice)
 
-| Sub-processor | Purpose | Locations | Data Processed |
-|--------------|---------|-----------|----------------|
-| Twilio Inc. | SMS delivery, phone communications | EU/US | Phone numbers, SMS content (where applicable) |
-| SendGrid (Twilio) | Transactional email delivery | EU/US | Email addresses, email content |
+#### Twilio, Inc.
+
+- **Purpose:** SMS and phone communications for system alerts and MFA (if enabled).  
+- **Data processed:** Phone numbers, message content, delivery metadata.  
+- **Location:** USA / global.  
+- **Transfer mechanism:** SCCs + technical safeguards.  
+- **Website:** twilio.com
+
+#### SendGrid (Twilio SendGrid)
+
+- **Purpose:** Transactional email delivery.  
+- **Data processed:** Email addresses, email content, metadata.  
+- **Location:** USA.  
+- **Transfer mechanism:** SCCs.  
+- **Website:** sendgrid.com
 
 
 
-### 4. Monitoring & Analytics
+### 3. Application Monitoring & Logging
 
-| Sub-processor | Purpose | Locations | Data Processed |
-|--------------|---------|-----------|----------------|
-| AppSignal B.V. | Application performance monitoring and error diagnostics | EU | Log data, anonymised request information |
-| Matomo (Hosted Cloud) | Privacy-friendly analytics for product telemetry | EU | Pseudonymised analytics data |
+#### AppSignal B.V.
+
+- **Purpose:** Application monitoring and error reporting.  
+- **Data processed:** Error logs, metadata, anonymised contextual information.  
+- **Location:** EU.  
+- **Transfer mechanism:** No transfers outside EU.  
+- **Website:** appsignal.com
 
 
 
-### 5. Authentication & Identity
+### 4. Analytics
 
-| Sub-processor | Purpose | Locations | Data Processed |
-|--------------|---------|-----------|----------------|
-| Microsoft Entra ID | SSO for enterprise customers | EU | Authentication metadata |
-| **Google Workspace / Google Identity | SSO for enterprise customers | EU | Authentication metadata |
-| Apple (Sign in With Apple / Wallet Updates)** | Wallet pass updates, device tokens | EU/US | Device identifiers, pass tokens |
-| Google Wallet Services | Wallet pass updates | EU/US | Device identifiers, pass tokens |
+#### Matomo Cloud (InnoCraft Ltd)
 
----
+- **Service:** Privacy-focused web analytics (hosted cloud service)
+- **Locations:** EU data centres (customer-selectable; typically EU)
+- **Data processed:** Pseudonymised analytics data, device information, usage patterns
+- **Data protection:** GDPR compliant; no cross-site tracking; no data sold
+- **Notes:** Used instead of Google Analytics for privacy reasons.
+
+
+
+### 5. Payments & Billing
+
+#### Stripe Payments Europe Ltd
+
+- **Purpose:** Subscription billing and payment processing.  
+- **Data processed:** Payment information, billing details, transaction metadata.  
+- **Location:** EU with controlled transfers to US.  
+- **Transfer mechanism:** SCCs.  
+- **Website:** stripe.com
+
+#### PayPal (Europe) S.à r.l. et Cie, S.C.A.
+
+- **Purpose:** Optional payment collection.  
+- **Data processed:** Payment information, account metadata.  
+- **Location:** EU + USA.  
+- **Transfer mechanism:** SCCs.  
+- **Website:** paypal.com
+
+#### GoCardless Ltd
+
+- **Purpose:** Bank-to-bank payments (Direct Debit).  
+- **Data processed:** Bank details, payer identity, transaction metadata.  
+- **Location:** UK + EU.  
+- **Transfer mechanism:** SCCs where necessary.  
+- **Website:** gocardless.com
+
+
+
+### 6. Identity & Access (Enterprise SSO)
+
+_(Used only if enabled by enterprise customers.)_
+
+#### Microsoft Entra ID
+
+- **Purpose:** Identity provider for SSO.  
+- **Data processed:** Authentication tokens, identity profile (minimal).  
+- **Location:** Customer-selected region (typically EU or UK).  
+- **Transfer mechanism:** SCCs if applicable.  
+- **Website:** microsoft.com
+
+#### Google Workspace / Google Identity
+
+- **Purpose:** Identity provider for SSO.  
+- **Data processed:** Authentication tokens, identity profile.  
+- **Location:** Customer tenancy settings.  
+- **Transfer mechanism:** SCCs.  
+- **Website:** google.com
+
+
+
+### 7. Apple & Google Wallet Ecosystems
+
+#### Apple Inc.
+- **Purpose:** Delivery of Apple Wallet passes, updates, and push tokens.  
+- **Data processed:** Device identifiers, pass metadata, update tokens.  
+- **Location:** Global infrastructure.  
+- **Transfer mechanism:** SCCs + Apple global compliance framework.  
+- **Website:** apple.com
+
+#### Google LLC (Google Wallet)
+- **Purpose:** Delivery of Google Wallet passes and updates.  
+- **Data processed:** Device identifiers, pass metadata, update tokens.  
+- **Location:** Global infrastructure.  
+- **Transfer mechanism:** SCCs.  
+- **Website:** google.com
+
+
+
 
 ## Sub-processor Changes
 
 NetNodes will notify the Customer of any intended changes to its Sub-processors by updating this list. Customers may subscribe to change notifications at: https://policy.netnodes.net. Where required under GDPR, customers will have an opportunity to object to the appointment of a new Sub-processor within a reasonable period.
-
-
