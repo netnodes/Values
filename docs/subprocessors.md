@@ -16,6 +16,7 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 ## Current Sub-processors
 
 ### 1. Infrastructure & Hosting
+
 | Sub-processor | Purpose | Locations | Data Processed |
 |--------------|---------|-----------|----------------|
 | DigitalOcean LLC | Primary hosting infrastructure for application servers, databases, networking | Amsterdam (NL), London (UK) | Customer data stored or processed as part of the service |
@@ -24,6 +25,7 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 
 
 ### 2. Payments & Billing
+
 | Sub-processor | Purpose | Locations | Data Processed |
 |--------------|---------|-----------|----------------|
 | Stripe, Inc. | Payments processing | EU/US | Billing details, payment metadata |
@@ -33,6 +35,7 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 
 
 ### 3. Communications
+
 | Sub-processor | Purpose | Locations | Data Processed |
 |--------------|---------|-----------|----------------|
 | Twilio Inc. | SMS delivery, phone communications | EU/US | Phone numbers, SMS content (where applicable) |
@@ -41,6 +44,7 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 
 
 ### 4. Monitoring & Analytics
+
 | Sub-processor | Purpose | Locations | Data Processed |
 |--------------|---------|-----------|----------------|
 | AppSignal B.V. | Application performance monitoring and error diagnostics | EU | Log data, anonymised request information |
@@ -49,6 +53,7 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 
 
 ### 5. Authentication & Identity
+
 | Sub-processor | Purpose | Locations | Data Processed |
 |--------------|---------|-----------|----------------|
 | Microsoft Entra ID | SSO for enterprise customers | EU | Authentication metadata |
