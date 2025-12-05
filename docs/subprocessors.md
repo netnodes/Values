@@ -27,7 +27,7 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 
 #### Amazon Web Services (AWS)
 
-- **Purpose:** Storage of customer images and binary assets (e.g., pass images, icon resources) using S3 in the EU region
+- **Purpose:** Storage of customer images and binary assets (e.g., images, icon resources) using S3 in the EU region
 - **Data processed:** Media assets and metadata uploaded by the customer
 - **Regions used:** EU region (e.g., Dublin/Frankfurt depending on configuration)
 - **Transfer mechanism:** EU/UK hosting only; no international transfers.  
