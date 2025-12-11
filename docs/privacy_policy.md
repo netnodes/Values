@@ -2,157 +2,118 @@
 go_back: true
 ---
 
-This Privacy Policy describes how NetNodes Limited and its affiliates ("DoorFlow," "we," "our" or "us") collect, use, and share information in connection with your use of our websites (including www.doorflow.com), services, and applications (collectively, the "Services"). This Privacy Policy (the "Privacy Policy") does not apply to information our customers may process when using our Services.
+# Privacy Notice
 
+_Effective Date:** 11 December 2025_
 
-## 1. INFORMATION WE COLLECT
+NetNodes Limited (“NetNodes,” “we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, share, and protect your personal data when you visit our corporate websites, interact with our services, or contact us.  
 
-### A. Information You Provide
+We aim to be clear, simple, and transparent. This policy also explains your rights under UK data protection law.  
 
-#### Account Registration
 
-When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number. If you choose to refer a friend to our Services, we may also collect your friend’s email address so that we may send them a referral or promotional code to sign up for our Services.
+## 1. Information We Collect  
 
-#### Payment Information
+We collect information to provide you with our services, communicate with you, and improve our business. Types of information may include:  
 
-When you add your financial account information to your Account, that information is directed to our third-party payment processor. We do not store your financial account information on our systems; however, we have access to, and may retain, subscriber information through our third-party payment processor.
+**a. Personal Information You Provide:**  
+- Name, email, phone number, company, job title.  
+- Information submitted via forms, emails, or when contacting support.  
 
-#### Communications
+**b. Technical Information:**  
+- IP address, browser type, device information, operating system.  
+- Cookies and similar tracking technologies (see our [Cookie Policy](#)).  
 
-If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. We may also receive a confirmation when you open an email from us.
+**c. Usage Information:**  
+- Pages visited, links clicked, time spent on site.  
+- Interactions with emails, downloads, or newsletters.  
 
-The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
-#### Information provided by End Users
+## 2. How We Use Your Information 
 
-DoorFlow provides the capability for End Users to store basic personal information such as an individual’s name, email address and photograph. This information is used to correlate security events to the correct individual and to offer further functionality to the End User.
+We use your data to:  
+- Provide and improve our websites and services.  
+- Respond to inquiries and support requests.  
+- Communicate important updates or service changes.  
+- Send marketing communications, where you have opted in.  
+- Comply with legal obligations and enforce our agreements.  
+- Conduct research and analysis in anonymised form to improve our services.  
 
-### B. Information We Collect When You Use Our Services.
+We will not sell your personal data.  
 
-#### Log Information
 
-DoorFlow records the actions of system Administrators and API Users, as well as the status and the settings of various devices that have been configured to operate with DoorFlow.
+## 3. Legal Basis for Processing
 
-Customer Data entered in a DoorFlow account by End Users or collected through the operation of the system are for the exclusive use of our End Users. DoorFlow staff may access Customer Data only for the purposes of providing and supporting the functionality of the Products, preventing or addressing service or technical problems, or as may be required by law.
+Under UK GDPR, we process your data based on one of the following legal bases:  
+- **Consent:** when you opt in to marketing or newsletters.  
+- **Contract:** to provide services or fulfil agreements.  
+- **Legal obligation:** to comply with laws and regulations.  
+- **Legitimate interest:** to improve our services, maintain security, and communicate with you in a professional context.  
 
-#### Information generated from events
 
-DoorFlow collects access control event data - for example that an access card was used at a particular door at a certain time.
+## 4. Sharing Your Data  
 
-#### Cookies and Other Tracking Technologies
+We may share your information with:  
+- **Service providers** for hosting, analytics, or communication purposes.  
+- **Professional advisors** such as auditors, legal counsel, or accountants.  
+- **Law enforcement or regulators** when required by law.  
+- **Business transfers** in the event of a merger or sale of assets.  
 
-As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL.
+We ensure all third parties comply with strict privacy standards.  
 
-To collect this information, a cookie may be set on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognise you. We store information that we collect through cookies, log files, and/or clear gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area ("EEA"), the information referenced above in this paragraph may be considered personal information under applicable data protection laws.
 
-### C. Information We Receive from Third Parties
 
-Third-Party Accounts. If you choose to link our Services to a third-party account, we will receive information about that account, such as your authentication token from the third-party account, to authorise linking. If you wish to limit the information available to us, you should visit the privacy settings of your third-party accounts to learn about your options.
+## 5. International Data Transfers  
 
-Third-Party Partners. We may also receive publicly available information about you from our third-party partners and combine it with data that we have about you.
+Where personal data is transferred outside the UK or European Economic Area, we ensure appropriate safeguards such as standard contractual clauses, encryption, or other legally recognised measures.  
 
-## 2. HOW WE USE INFORMATION
 
-We use the information we collect in various ways, including to:
+## 6. Security of Your Information  
 
-- Provide, operate, and maintain our Services;
-- Improve, personalise, and expand our Services;
-- Understand and analyse how you use our Services;
-- Develop new products, services, features, and functionality;
-- Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the Service, and for marketing and promotional purposes;
-- Process your transactions;
-- Send you text messages and push notifications;
-- Find and prevent fraud; and
-- For compliance purposes, including enforcing our Terms of Service, or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process or governmental agency.
+We implement technical and organisational measures to protect your information, including:  
+- Encryption of data in transit and at rest.  
+- Access controls and monitoring.  
+- Regular security reviews and audits.  
 
-## 3. HOW WE SHARE INFORMATION
+While we take every reasonable step, no system is completely secure.  
 
-Aggregate Information. Where legally permissible, we may use and share information about users with our partners in aggregated or de-identified form that can’t reasonably be used to identify you.
 
-Analytics. We use analytics providers such as Google Analytics. Google Analytics uses cookies to collect non-identifying information. Google provides some additional privacy options regarding its Analytics cookies at http://www.google.com/policies/privacy/partners/.
+## 7. Data Retention  
 
-Business Transfers. Information may be disclosed and otherwise transferred to any potential acquirer, successor, or assignee as part of any proposed merger, acquisition, debt financing, sale of assets, or similar transaction, or in the event of insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets.
+We retain personal data only for as long as necessary to fulfil the purposes outlined in this policy, or as required by law:  
+- Account or contact information: retained until deletion or withdrawal of consent.  
+- Legal or financial records: retained for statutory periods (usually 6–7 years).  
+- Analytics and anonymised data: retained indefinitely in anonymised form.  
 
-As Required By Law and Similar Disclosures. We may also share information to
 
-a. satisfy any applicable law, regulation, legal process, or governmental request;
+## 8. Your Rights  
 
-b. enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof;
+You have rights under UK data protection law:  
+- **Access:** request a copy of your personal data.  
+- **Correction:** correct inaccurate or incomplete data.  
+- **Deletion:** request deletion of your data where legally allowed.  
+- **Portability:** receive your data in a structured format.  
+- **Restriction or objection:** restrict processing or object to certain uses.  
+- **Withdraw consent:** for marketing communications.  
 
-c. detect, prevent, or otherwise address fraud, security, or technical issues;
+To exercise these rights, contact **privacy@netnodes.net** or write to our address below.  
 
-d. respond to your requests; or
 
-e. protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organisations for fraud protection and spam/malware prevention.
+## 9. Cookies and Tracking  
 
-## 4. LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION
+We use cookies and similar technologies to improve your experience and understand site usage. You can manage your cookie preferences via our [Cookie Policy](cookies).  
 
-Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
 
-However, we will normally collect personal information from you only
+## 10. Children  
 
-a. where we need the personal information to perform a contract with you;
+Our services are not intended for children under 13 years of age. We do not knowingly collect personal data from children.  
 
-b. where the processing is in our legitimate interests and not overridden by your rights; or
 
-c. where we have your consent to do so.  We have a legitimate interest in operating our Services and communicating with you as necessary to provide these Services, for example when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities.
+## 11. Updates to This Policy  
 
-In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person.
+We may update this Privacy Policy from time to time. The latest version will always be available at **policy.netnodes.net**, and significant changes will be communicated where required by law.  
 
-If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
 
-## 5. THIRD PARTY SERVICES
+## 12. Contact Us
 
-You may access other third-party services through the Services, for example by clicking on links to those third-party services from within the Services. We are not responsible for the privacy policies and/or practices of these third-party services, and we encourage you to carefully review their privacy policies.
+If you have questions about this policy or your personal data, please contact us at privacy@netnodes.net  
 
-## 6. SECURITY
-
-DoorFlow is committed to protecting your information. To do so, we employ a variety of security technologies and measures designed to protect information from unauthorised access, use, or disclosure. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information. However, please bear in mind that the Internet cannot be guaranteed to be 100% secure.
-
-## 7. DATA RETENTION
-
-We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax, or accounting requirements).
-
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
-
-## 8. ACCESS
-
-If you are a registered user, you may access certain information associated with your Account by logging into our Services or emailing privacy@doorflow.com. If you terminate your Account, any public activity on your Account prior to deletion may remain stored on our servers and may remain accessible to other Users of the account.
-
-To protect your privacy and security, we may also take reasonable steps to verify your identity before updating or removing your information. The information you provide us may be archived or stored periodically by us according to backup processes conducted in the ordinary course of business for disaster recovery purposes. Your ability to access and correct your information may be temporarily limited where access and correction could: inhibit DoorFlow's ability to comply with a legal obligation; inhibit DoorFlow's ability to investigate, make or defend legal claims; result in disclosure of personal information about a third party; or result in breach of a contract or disclosure of trade secrets or other proprietary business information belonging to DoorFlow or a third party.
-
-## 9. HOW GDPR RELATES TO DOORFLOW
-
-In the context of the GDPR, individuals with data stored in DoorFlow or individuals using DoorFlow applications are considered Data Subjects. DoorFlow account holders  and in some cases DoorFlow Resellers are considered Data Controllers. DoorFlow is a Data Processor.
-
-As a Data Processor, DoorFlow is the responsible custodian of the Data Subject’s data, performing this role on behalf of the Data Controller. The Data Controller is completely responsible to determine what data is captured, stored and processed within DoorFlow. The Data Controller is the owner of the data. DoorFlow does not rent, share, disclose or sell any data owned by the Data Controller.
-
-Within our service model, most Data Subjects will have no direct interaction with the DoorFlow application that captures and stores their data. Most Data Subjects will be employees or contractors of the Data Controller. Data is captured based on their relationship with the Data Controller. The Data Controller is responsible for gaining explicit consent from the Data Subject regarding the data to be stored.
-
-Data Subject requests to purge data from DoorFlow is subject to Terms of Service agreed with the Data Controller and will be adjudicated by the Data Controller.
-
-In cases where Data Subjects use DoorFlow websites or applications directly, DoorFlow is the Data Controller and as such is responsible for gaining explicit or unambiguous consent based on the type of data collected.
-
-Data Subject requests to purge data collected directly by DoorFlow will be adjudicated by DoorFlow staff in liaison with the account holder.
-
-The GDPR includes provisions that grant Data Subjects portability rights in their personal data. Any personal data we store on behalf of Data Controllers belongs to the Data Subjects'. We will coordinate with Data Subjects and, as applicable Data Controllers, when requested to delete or port data. We provide tools for portability and are continually working to enhance our data export capabilities.
-
-## 10. YOUR CHOICES
-
-You may unsubscribe from receiving certain promotional emails from us. If you wish to do so, simply follow the instructions found at the end of the email. Even if you unsubscribe, we may still contact you for informational, transactional, account-related, or similar purposes.
-
-Many browsers have an option for disabling cookies, which may prevent your browser from accepting new cookies or enable selective use of cookies. Please note that, if you choose not to accept cookies, some features and the personalization of our Services may no longer work for you. You will continue to receive advertising material but it will not be tailored to your interests.
-
-
-## 11. CHILDREN'S PRIVACY
-
-Children under 13 are prohibited from using our Services. If you learn that a child has provided us with personal information in violation of this Privacy Policy, you can alert us at privacy@doorflow.com.
-
-## 12. CHANGES TO THIS PRIVACY POLICY
-
-This Privacy Policy may be modified from time to time, so please review it frequently. Changes to this Privacy Policy will be posted on our websites. If we materially change the ways in which we use or share personal information previously collected from you through our Services, we will notify you through our Services, by email, or other communication.
-
-### Contact Us
-If you have any questions or concerns about this Privacy Policy, please feel free to email us at privacy@doorflow.com.
-
-DoorFlow is developed, operated and maintained by NetNodes Limited. The Data Controller of your personal information is NetNodes Limited.
