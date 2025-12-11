@@ -21,7 +21,7 @@ We collect information to provide you with our services, communicate with you, a
 
 **b. Technical Information:**  
 - IP address, browser type, device information, operating system.  
-- Cookies and similar tracking technologies (see our [Cookie Policy](#)).  
+- Cookies and similar tracking technologies (see our [Cookie Policy](cookies)).  
 
 **c. Usage Information:**  
 - Pages visited, links clicked, time spent on site.  
