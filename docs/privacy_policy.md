@@ -2,7 +2,7 @@
 go_back: true
 ---
 
-# Privacy Notice
+## Privacy Notice
 
 _Effective Date:** 11 December 2025_
 
