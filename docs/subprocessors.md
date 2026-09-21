@@ -5,7 +5,7 @@ go_back: true
 ## Sub-processors
 _(for PassFlow and DoorFlow)_
 
-_Last updated:** 5 December 2025_
+_Last updated: 5 December 2025_
 
 NetNodes uses carefully selected third-party sub-processors to support delivery of the PassFlow and DoorFlow services. These sub-processors process **Customer Data** only as required to provide the core service functionality.
 

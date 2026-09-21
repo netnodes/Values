@@ -9,7 +9,7 @@ Our policies are designed to be clear, transparent, and respectful of the indivi
 These policies set out how we operate as a company and how we meet our legal, ethical, and environmental obligations.
 
 * [Corporate & Social Responsibility](corporate_social_responsibility)
-* [Privacy](privacy_policy)
+* [Privacy](privacy)
 * [Data Processing Agreement](dpa)
 * [Equal Opportunities](equal_opportunities)
 * [Environmental](environmental)
