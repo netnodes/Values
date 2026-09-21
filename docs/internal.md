@@ -1,4 +1,4 @@
-## Corporate
+# Corporate
 
 ### Public
 
@@ -15,15 +15,21 @@
 * [Environmental Policy](environmental)
 * [Health & Safety Policy](hs_policy)
 
+---
+
 ## Commercial
 
 * [Terms of Sale](terms)
+
+---
 
 ## Services
 
 * [DoorFlow Terms of Service](https://policy.doorflow.com/terms_of_service)
 * [DoorFlow Service Level Agreement (SLA)](https://policy.doorflow.com/service_level_agreement)
 * [Use of Cookies](cookies)
+
+---
 
 ## Related links
 

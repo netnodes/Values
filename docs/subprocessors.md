@@ -2,7 +2,7 @@
 go_back: true
 ---
 
-## Sub-processors
+# Sub-processors
 _(for PassFlow and DoorFlow)_
 
 _Last updated: 5 December 2025_
@@ -13,11 +13,13 @@ NetNodes conducts due-diligence checks, signs appropriate data processing agreem
 
 _Sub-processors exclude providers used by NetNodes for sales, marketing, communications, HR, administrative or business operational purposes, where such providers do not process Customer Data as part of the Services._
 
-### Current Sub-processors
+---
 
-#### 1. Hosting, Infrastructure & Networking
+## Current Sub-processors
 
-##### DigitalOcean, LLC
+### 1. Hosting, Infrastructure & Networking
+
+#### DigitalOcean, LLC
 
 - **Purpose:** Cloud hosting, compute, storage, networking.  
 - **Data processed:** Customer account data, application data, metadata, logs.  
@@ -25,7 +27,7 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 - **Transfer mechanism:** EU/UK hosting only; no international transfers.  
 - **Website:** digitalocean.com
 
-##### Amazon Web Services (AWS)
+#### Amazon Web Services (AWS)
 
 - **Purpose:** Storage of customer images and binary assets (e.g., images, icon resources) using S3 in the EU region
 - **Data processed:** Media assets and metadata uploaded by the customer
@@ -34,9 +36,9 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 - **Website:** aws.com
 
 
-#### 2. Communications (Email, SMS, Voice)
+### 2. Communications (Email, SMS, Voice)
 
-##### Twilio, Inc.
+#### Twilio, Inc.
 
 - **Purpose:** SMS and phone communications for system alerts and MFA (if enabled).  
 - **Data processed:** Phone numbers, message content, delivery metadata.  
@@ -44,7 +46,7 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 - **Transfer mechanism:** SCCs + technical safeguards.  
 - **Website:** twilio.com
 
-##### SendGrid (Twilio SendGrid)
+#### SendGrid (Twilio SendGrid)
 
 - **Purpose:** Transactional email delivery.  
 - **Data processed:** Email addresses, email content, metadata.  
@@ -54,9 +56,9 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 
 
 
-#### 3. Application Monitoring & Logging
+### 3. Application Monitoring & Logging
 
-##### AppSignal B.V.
+#### AppSignal B.V.
 
 - **Purpose:** Application monitoring and error reporting.  
 - **Data processed:** Error logs, metadata, anonymised contextual information.  
@@ -66,9 +68,9 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 
 
 
-#### 4. Analytics
+### 4. Analytics
 
-##### Matomo Cloud (InnoCraft Ltd)
+#### Matomo Cloud (InnoCraft Ltd)
 
 - **Service:** Privacy-focused web analytics (hosted cloud service)
 - **Locations:** EU data centres (customer-selectable; typically EU)
@@ -78,9 +80,9 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 
 
 
-#### 5. Payments & Billing
+### 5. Payments & Billing
 
-##### Stripe Payments Europe Ltd
+#### Stripe Payments Europe Ltd
 
 - **Purpose:** Subscription billing and payment processing.  
 - **Data processed:** Payment information, billing details, transaction metadata.  
@@ -88,7 +90,7 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 - **Transfer mechanism:** SCCs.  
 - **Website:** stripe.com
 
-##### PayPal (Europe) S.à r.l. et Cie, S.C.A.
+#### PayPal (Europe) S.à r.l. et Cie, S.C.A.
 
 - **Purpose:** Optional payment collection.  
 - **Data processed:** Payment information, account metadata.  
@@ -96,7 +98,7 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 - **Transfer mechanism:** SCCs.  
 - **Website:** paypal.com
 
-##### GoCardless Ltd
+#### GoCardless Ltd
 
 - **Purpose:** Bank-to-bank payments (Direct Debit).  
 - **Data processed:** Bank details, payer identity, transaction metadata.  
@@ -106,11 +108,11 @@ _Sub-processors exclude providers used by NetNodes for sales, marketing, communi
 
 
 
-#### 6. Identity & Access (Enterprise SSO)
+### 6. Identity & Access (Enterprise SSO)
 
 _(Used only if enabled by enterprise customers.)_
 
-##### Microsoft Entra ID
+#### Microsoft Entra ID
 
 - **Purpose:** Identity provider for SSO.  
 - **Data processed:** Authentication tokens, identity profile (minimal).  
@@ -118,7 +120,7 @@ _(Used only if enabled by enterprise customers.)_
 - **Transfer mechanism:** SCCs if applicable.  
 - **Website:** microsoft.com
 
-##### Google Workspace / Google Identity
+#### Google Workspace / Google Identity
 
 - **Purpose:** Identity provider for SSO.  
 - **Data processed:** Authentication tokens, identity profile.  
@@ -128,25 +130,24 @@ _(Used only if enabled by enterprise customers.)_
 
 
 
-#### 7. Apple & Google Wallet Ecosystems
+### 7. Apple & Google Wallet Ecosystems
 
-##### Apple Inc.
+#### Apple Inc.
 - **Purpose:** Delivery of Apple Wallet passes, updates, and push tokens.  
 - **Data processed:** Device identifiers, pass metadata, update tokens.  
 - **Location:** Global infrastructure.  
 - **Transfer mechanism:** SCCs + Apple global compliance framework.  
 - **Website:** apple.com
 
-##### Google LLC (Google Wallet)
+#### Google LLC (Google Wallet)
 - **Purpose:** Delivery of Google Wallet passes and updates.  
 - **Data processed:** Device identifiers, pass metadata, update tokens.  
 - **Location:** Global infrastructure.  
 - **Transfer mechanism:** SCCs.  
 - **Website:** google.com
 
+---
 
-
-
-### Sub-processor Changes
+## Sub-processor Changes
 
 NetNodes will notify the Customer of any intended changes to its Sub-processors by updating this list. Customers may subscribe to change notifications at: https://policy.netnodes.net. Where required under GDPR, customers will have an opportunity to object to the appointment of a new Sub-processor within a reasonable period.

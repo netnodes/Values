@@ -6,7 +6,7 @@ redirect_from:
   - /privacy_policy
 ---
 
-## Privacy Notice
+# Privacy Notice
 
 _Last updated: September 2026_
 
@@ -14,8 +14,9 @@ NetNodes Limited (“NetNodes,” “we,” “our,” or “us”) is committed
 
 We aim to be clear, simple, and transparent. This notice also explains your rights under UK data protection law.  
 
+---
 
-### 1. Information We Collect  
+## 1. Information We Collect  
 
 We collect information to provide you with our services, communicate with you, and improve our business. Types of information may include:  
 
@@ -31,8 +32,9 @@ We collect information to provide you with our services, communicate with you, a
 - Pages visited, links clicked, time spent on site.  
 - Interactions with emails, downloads, or newsletters.  
 
+---
 
-### 2. How We Use Your Information 
+## 2. How We Use Your Information 
 
 We use your data to:  
 - Provide and improve our websites and services.  
@@ -44,8 +46,9 @@ We use your data to:
 
 We will not sell your personal data.  
 
+---
 
-### 3. Measurement of Our Websites  
+## 3. Measurement of Our Websites  
 
 We measure how our websites are used, so that we can see what is working and improve them.  
 
@@ -55,8 +58,9 @@ Where we use analytics cookies for this, they are set only after you have consen
 
 We rely on legitimate interest for this measurement. You can object at any time using the contact details in section 12, and you can decline analytics cookies without affecting your use of our websites.  
 
+---
 
-### 4. Legal Basis for Processing
+## 4. Legal Basis for Processing
 
 Under UK GDPR, we process your data based on one of the following legal bases:  
 - **Consent:** when you opt in to marketing or newsletters.  
@@ -64,8 +68,9 @@ Under UK GDPR, we process your data based on one of the following legal bases:
 - **Legal obligation:** to comply with laws and regulations.  
 - **Legitimate interest:** to improve our services, maintain security, measure use of our websites as described in section 3, and communicate with you in a professional context.  
 
+---
 
-### 5. Sharing Your Data  
+## 5. Sharing Your Data  
 
 We may share your information with:  
 - **Service providers** for hosting, analytics, or communication purposes.  
@@ -75,14 +80,15 @@ We may share your information with:
 
 Our [sub-processors](subprocessors) are published in full, and our [Data Processing Agreement](dpa) governs our role where we process personal data on a customer's behalf.  
 
+---
 
-
-### 6. International Data Transfers  
+## 6. International Data Transfers  
 
 Where personal data is transferred outside the UK or European Economic Area, we ensure appropriate safeguards such as standard contractual clauses, encryption, or other legally recognised measures.  
 
+---
 
-### 7. Security of Your Information  
+## 7. Security of Your Information  
 
 We implement technical and organisational measures to protect your information, including:  
 - Encryption of data in transit and at rest.  
@@ -91,16 +97,18 @@ We implement technical and organisational measures to protect your information, 
 
 While we take every reasonable step, no system is completely secure.  
 
+---
 
-### 8. Data Retention  
+## 8. Data Retention  
 
 We retain personal data only for as long as necessary to fulfil the purposes outlined in this notice, or as required by law:  
 - Account or contact information: retained until deletion or withdrawal of consent.  
 - Legal or financial records: retained for statutory periods (usually 6–7 years).  
 - Analytics and anonymised data: retained indefinitely in anonymised form.  
 
+---
 
-### 9. Your Rights  
+## 9. Your Rights  
 
 You have rights under UK data protection law:  
 - **Access:** request a copy of your personal data.  
@@ -112,23 +120,27 @@ You have rights under UK data protection law:
 
 To exercise these rights, contact **privacy@netnodes.net**.  
 
+---
 
-### 10. Cookies and Tracking  
+## 10. Cookies and Tracking  
 
 We use cookies and similar technologies to improve your experience and understand site usage. You can manage your cookie preferences via our [Cookie Policy](cookies).  
 
+---
 
-### 11. Children  
+## 11. Children  
 
 Our services are not intended for children under 16, or under the local minimum age where that is higher. We do not knowingly collect personal data from children.  
 
+---
 
-### 12. Updates to This Notice  
+## 12. Updates to This Notice  
 
 We may update this Privacy Notice from time to time. The latest version will always be available at **policy.netnodes.net**, and significant changes will be communicated where required by law.  
 
+---
 
-### 13. Contact Us
+## 13. Contact Us
 
 If you have questions about this notice or your personal data, please contact us at privacy@netnodes.net  
 
