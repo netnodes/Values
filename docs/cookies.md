@@ -5,51 +5,53 @@ cookies: true
 
 ## Use of Cookies
 
-_Last updated: December 2025_
+_Last updated: September 2026_
 
-NetNodes Limited (“NetNodes”, “we”, “us”, or “our”) uses cookies and similar technologies to provide, protect, and improve our websites and services. This policy explains how cookies work, what we use them for, and the choices you have.
+NetNodes Limited (“NetNodes”, “we”, “us”, or “our”) uses cookies and similar technologies on netnodes.net and policy.netnodes.net.
+
+This policy lists every cookie we set, what it is for, and how long it lasts.
 
 ### What Are Cookies?
 
-Cookies are small text files placed on your device when you visit our websites. They help us remember your preferences, measure how our sites are used, and enhance your overall experience.
+Cookies are small files stored on your device when you visit a website. They allow the site to remember information between pages and visits.
 
+### The Cookies We Set
 
-### How We Use Cookies
+| Cookie | Set by | Purpose | Duration |
+| --- | --- | --- | --- |
+| `_nn_web_session` | NetNodes Limited | Keeps you signed in and maintains session state, including two-factor authentication. Strictly necessary. | Until you close your browser |
+| `cookieConsent` | NetNodes Limited | Records whether you accepted or declined analytics cookies, so we do not ask again. Strictly necessary. | 12 months |
+| `_pk_id.*` | Matomo Cloud, operated by InnoCraft Ltd | Distinguishes one visitor from another so we can count returning visits. **Set only after you accept.** | 13 months |
+| `_pk_ses.*` | Matomo Cloud, operated by InnoCraft Ltd | Groups the pages you view into a single visit. **Set only after you accept.** | 30 minutes |
 
-We use cookies on netnodes.net and policy.netnodes.net for the following purposes:
+The strictly necessary cookies are set whatever you choose. Without them you may be unable to sign in.
 
-### Essential Cookies
+### Analytics
 
-These cookies are required for the website to function.
+We use **Matomo**, a web analytics service operated by InnoCraft Ltd, to understand how our sites are used so we can improve them. Matomo is listed in our [sub-processors](https://policy.netnodes.net/subprocessors).
 
-They support:
+Matomo's cookies are set **only once you have accepted them**. If you decline, or do not answer, no analytics cookie is set and no analytics data is recorded.
 
-- basic site navigation  
-- security and session integrity  
-- loading core content and features  
-
-Without these cookies, the website cannot operate correctly.
-
-### Analytics Cookies
-
-These cookies help us understand how visitors use our site so we can improve structure, content, and performance.
-We may use privacy-focused analytics tools that collect information in aggregate form only.
+Matomo records individual visits rather than only totals: the `_pk_id` cookie distinguishes one visitor from another across visits. We use this to produce reports about how the site is used, not to identify you. Our [Privacy Notice](privacy) explains the lawful basis and how to object.
 
 ### Preference Cookies
 
-These remember your choices - such as language preferences or previously viewed pages — to make your experience more consistent.
+We do not currently set any preference cookie. If that changes - for example to remember language preferences and previously viewed pages - this policy will be updated first.
 
 ### Cookies We Do Not Use
 
-We do not use advertising cookies or share cookie data with third-party advertisers.
+We use no advertising or marketing cookies, and we do not sell or share cookie data with advertisers. No third party other than Matomo Cloud sets a cookie on our sites.
 
 ### Managing Cookies
 
-Most browsers allow you to control or block cookies.
-Adjusting your browser settings may affect how our site functions.
+You can change your answer at any time using the “Review your decision” button on this page.
+
+You can also block or delete cookies through your browser settings. If you block the strictly necessary cookies, the site may not work correctly.
+
+Declining also deletes any Matomo cookie already set on an earlier visit.
 
 ### Updates
 
-We may update this policy from time to time. When we make changes, we will revise the “Last updated” date.
+We may update this policy from time to time. When we do, we will revise the “Last updated” date.
 
-If you have questions about how we use cookies, please contact us.
+If you have questions about how we use cookies, please contact us at [privacy@netnodes.net](mailto:privacy@netnodes.net).
