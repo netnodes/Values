@@ -2,15 +2,19 @@
 go_back: true
 ---
 
-## NetNodes Disciplinary Policy & Procedures
+# NetNodes Disciplinary Policy & Procedures
 
-### Introduction
+---
+
+## Introduction
 
 This Disciplinary Policy & Procedure does not form part of any employee's contract and can be amended and withdrawn at any time. 
 
 NetNodes aims to be an organisation that values, recognises and responds to the diverse needs of members and those we serve. We adhere to the Equality Act 2010 and will not discriminate against any person or other organisation with particular reference to any of the protected characteristics.
 
-### Purpose and scope
+---
+
+## Purpose and scope
 
 It is essential that certain standards of conduct and performance are maintained to protect the smooth running of NetNodes and the wellbeing of all its employees. The NetNodes Disciplinary Policy is intended to ensure fair and equitable treatment of employees where there are instances of misconduct or where job performance falls below an acceptable level.
 
@@ -18,7 +22,9 @@ All employees are required to conduct themselves in a manner consistent with the
 
 This Disciplinary Policy and Procedures is for guidance only, does not form part of employees’ terms and conditions of employment and is therefore not contractually binding. NetNodes reserves the right to amend this policy from time to time and where appropriate any changes will be communicated to and discussed with employees. Where appropriate, NetNodes aims to involve employees, and, where relevant, their representatives, in the development of this procedure.  This procedure does not apply to cases involving genuine sickness absence, or proposed redundancies.
 
-### Principles
+---
+
+## Principles
 
 The procedure is designed to establish the facts quickly and to deal consistently with disciplinary issues.  No disciplinary action will be taken until the matter has been fully investigated.
 
@@ -34,15 +40,17 @@ At every stage employees will be informed of what is alleged and have the opport
 
 An employee who is given a disciplinary warning will be told where their conduct or behaviour falls short of what we consider satisfactory, what improvement is required, and over what timescale this is to be achieved and how long that warning will remain current. An employee has the right to appeal against any disciplinary penalty.
 
-### The Procedure
+---
 
-#### Informal disciplinary procedure
+## The Procedure
+
+### Informal disciplinary procedure
 
 For less serious misconduct or where performance levels are below standard, NetNodes may issue an informal oral warning after conducting an initial investigation without using the full disciplinary procedure. Examples of less serious misconduct or performance are minor breaches of organisation discipline, poor behaviour, poor timekeeping or poor job performance.
 
 An informal oral warning may be recorded on an employee's file by means of a file note. A letter of concern and/or action plan may be issued to the employee as appropriate, setting out the concerns, expected improvements and agreed timescale. The employee will also be informed that it may be necessary to move to the formal procedure (outlined below) in the event that the informal route is unsuccessful.
 
-#### Formal disciplinary procedure
+### Formal disciplinary procedure
 
 1. Right to be accompanied
 
@@ -68,25 +76,31 @@ An informal oral warning may be recorded on an employee's file by means of a fil
 
 	Before making any decision on disciplinary action, the disciplinary officer will consider the evidence presented, take into account the employee's disciplinary and general record, any similar precedents, any mitigating circumstances or explanations given by the employee, what would be reasonable under the circumstances and whether any training, additional support or adjustments to the role or workload are necessary. 
 
-### Disciplinary sanctions
+---
 
-#### Verbal warning – for misconduct, or poor performance or attendance of a relatively minor nature 
+## Disciplinary sanctions
+
+### Verbal warning – for misconduct, or poor performance or attendance of a relatively minor nature 
 
 If the employee’s conduct, performance or attendance does not meet acceptable standards, they will normally be given a formal verbal warning and advised of the reason for the warning, that this is the first stage of the disciplinary procedure, how long the warning will remain current and of their right of appeal. 
 
-#### First written warning (or improvement note) – for incidents of misconduct or poor performance/attendance
+### First written warning (or improvement note) – for incidents of misconduct or poor performance/attendance
 
 For general misconduct or poor performance/attendance or there is further misconduct, or poor performance or attendance within the duration of the verbal warning, a written warning (or improvement note, in the case of incapability) will be given to the employee. This will give details of the complaint, the improvement required and the timescale. The warning will also set out how long it will remain current. It will warn the employee that, if there is no satisfactory improvement, further disciplinary action may be taken and it will advise the employee of their right of appeal. 
 
-#### Final written warning – for further misconduct or poor performance/ attendance, or if an incident of serious misconduct occurs
+### Final written warning – for further misconduct or poor performance/ attendance, or if an incident of serious misconduct occurs
 
 If there is still a failure to improve conduct, performance or attendance, or if an incident of serious misconduct occurs, a final written warning will normally be given to the employee. This will give details of the complaint, will warn that dismissal will result if there is no satisfactory improvement, and will advise of the right of appeal. The warning will also set out how long it will remain current.
 
-### Dismissal with notice
+---
+
+## Dismissal with notice
 
 If conduct, performance or attendance is still unsatisfactory and the employee fails to reach the prescribed standards, dismissal will normally result. The employee will be provided with written reasons for dismissal, the date on which their employment will terminate (in accordance with the employee's notice entitlement), and will be notified of their right of appeal. 
 
-### Gross misconduct
+---
+
+## Gross misconduct
 
 An employee will not normally be dismissed for a first incident of misconduct, unless it amounts to gross misconduct. Certain offences may be regarded as so serious as to render the employee liable to summary dismissal without prior warning (see examples below – these examples are not exhaustive but are a guide to the type of offence which normally results in summary dismissal). A summary dismissal for gross misconduct will only be made following a disciplinary investigation and hearing and will be confirmed in writing, giving the reasons for dismissal, confirming that the employment terminates immediately without notice or pay in lieu of notice, and outlining the employee's right of appeal. 
 
@@ -109,11 +123,15 @@ While the alleged gross misconduct is being investigated, the employee may be su
 	
 For the avoidance of doubt safeguarding breaches are an act of gross misconduct and will result in summary dismissal. 
 
-### Penalties other than dismissal
+---
+
+## Penalties other than dismissal
 
 There may be circumstances where we consider alternative disciplinary action to dismissal to be appropriate. At NetNodes' discretion, such action could include suspension without pay, demotion (which may result in a reduction in pay for the employee), or alternative work elsewhere in the organisation, if any suitable posts are available. Demotions or transfers to a different post will only be considered in exceptional circumstances; where the employee agrees to a change of duties including a demotion and a reduction in salary/benefits commensurate with a revised role this could be an acceptable outcome of a formal disciplinary procedure.
 
-### Duration and removal of warnings
+---
+
+## Duration and removal of warnings
 
 Warnings and improvement notes will remain 'active' for the following periods unless a different period is confirmed in writing to the employee: 
 
@@ -127,7 +145,9 @@ A copy of the written confirmation of any warnings, improvement notes, dismissal
 
 Following completion of the appropriate period, the warning or improvement note will no longer be active and will normally be disregarded for the purposes of any future disciplinary action. Records of disciplinary sanctions will however be retained on file for purposes of disclosure as required by Regulation 11 of the Transfer of Undertakings (Protection of Employment) Regulations 2006 (Amended 2014). 
 
-### Authority to give disciplinary warnings, improvement notes and to dismiss
+---
+
+## Authority to give disciplinary warnings, improvement notes and to dismiss
 
 The following are authorised by NetNodes to give warnings, improvement notes or to dismiss: 
 
@@ -139,7 +159,9 @@ The following are authorised by NetNodes to give warnings, improvement notes or 
 
 **dismissal or other penalty such as disciplinary transfer or demotion/loss of pay**: any director or trustee 
 
-### Appeals 
+---
+
+## Appeals 
 
 An employee who wishes to appeal against any disciplinary decision must do so in writing to the Director or their nominee (normally line manager) within seven calendar days of your receipt of our letter detailing the disciplinary, stating the grounds upon which they intend to appeal.
 
@@ -149,7 +171,9 @@ A Panel of NetNodes Board members (none of which took part in the original disci
 
 The decision of the appeal chairperson will be given to the employee in writing after the meeting.  The chairperson’s decision is final, and there is no further right of appeal.
 
-### Probationary employees
+---
+
+## Probationary employees
 
 Employees who are still within their probationary period are not covered by this procedure. If there are instances of misconduct the probationary employee will normally be seen by their line manager, informed of any shortcomings in their conduct or behaviour, offered training and support (where appropriate) and warned that failure to improve will result in dismissal. If there is doubt about the employee's ability to reach a satisfactory standard of conduct of behaviour, the probationary period may be extended, in which case the employee will be told of this and a new date set for the expiry of the probationary period. 
 
@@ -157,6 +181,8 @@ If the employee is unable to reach a satisfactory standard of conduct, they will
 
 A probationary employee who commits an act of gross misconduct will be summarily dismissed. 
 
-### Monitoring and review
+---
+
+## Monitoring and review
 
 The NetNodes Board will regularly review the operation of this procedure.

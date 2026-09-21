@@ -2,7 +2,7 @@
 go_back: true
 ---
 
-## NetNodes Health & Safety Policy
+# NetNodes Health & Safety Policy
 
 NetNodes is responsible for the working environment and methods of its employees, workers and volunteers, including home-based working, travel in their own vehicle or by another means and all forms of on site or off site working. 
 
@@ -21,10 +21,11 @@ All employees, workers and volunteers have a responsibility for their own health
 
 External specialist/technical advice and training will be sought as necessary to ensure adequate precautions.
 
+---
 
-### Policy statements and associated arrangements
+## Policy statements and associated arrangements
 
-#### To prevent accidents and cases of work-related ill health and provide adequate control of health and safety risks arising from NetNodes activities
+### To prevent accidents and cases of work-related ill health and provide adequate control of health and safety risks arising from NetNodes activities
 
 Responsibility: Chief Executive; Director of Finance & Operations; Employees
 
@@ -35,7 +36,7 @@ Arrangements:
 - Home workstation assessments will be completed by all employees for review by the Director of Finance & Operations.
 - The potential for work-related ill health will be assessed by line managers in regular one to one supervision meetings.
 
-#### To provide adequate training to ensure employees are competent to do their work.
+### To provide adequate training to ensure employees are competent to do their work.
 
 Responsibility: Chief Executive; Director of Finance & Operations
 
@@ -53,7 +54,7 @@ Arrangements:
 - All home workers will be briefed on how to set up their workstation and what checks to carry out on workplace, furniture, heating, lighting and electrical equipment to minimise the risk of harm to themselves and other occupants.
 
 
-#### To engage and consult with employees on day-to-day health and safety conditions, providing advice and supervision on occupational health.
+### To engage and consult with employees on day-to-day health and safety conditions, providing advice and supervision on occupational health.
 
 See also
 
@@ -67,7 +68,7 @@ Arrangements:
 - Line managers will monitor mental wellness amongst those who are, or have been, vulnerable and will promote mental wellness to all. 
 - Where appropriate, actions taken by line managers will be reported to the NetNodes Board.
 
-#### To implement emergency procedures – e.g. evacuation in case of fire or other significant incident.
+### To implement emergency procedures – e.g. evacuation in case of fire or other significant incident.
 
 See also:
 
@@ -82,7 +83,7 @@ Arrangements:
 - Travel first aid kits will be provided to each employee (for home working and travel use).
  
 
-#### To maintain safe and healthy working conditions, provide and maintain equipment and machinery.
+### To maintain safe and healthy working conditions, provide and maintain equipment and machinery.
 
 See also
 - [HSE Workplace health, safety and welfare - A short guide for managers (PDF)](https://policy.netnodes.net/assets/files/HSE_Workplace_health_safety_and_welfare.pdf)
@@ -108,7 +109,7 @@ Arrangements:
  
 - Drivers are at risk of significant loss of concentration when using hands-free mobile phones. Employees are instructed, in line with the law, to park in a safe place with the engine turned off to make or receive mobile phone calls.
 
-#### To measure performance by active monitoring and investigation of accidents/incidents/near misses
+### To measure performance by active monitoring and investigation of accidents/incidents/near misses
 
 Responsibility: Chief Executive; Director of Finance & Operations
 
@@ -118,7 +119,7 @@ Arrangements:
 - Accidents and incidents will be reported to the Director of Finance & Operations or UK Programmes Manager by email.
 - All serious incidents, accidents or work-related ill-health will be formally investigated by the relevant line manager and reported to the Director of Finance & Operations and NetNodes Board.
 
-#### To carry out a periodic management review
+### To carry out a periodic management review
 
 Responsibility: Chief Executive
 
@@ -126,17 +127,19 @@ Arrangements:
 - Review policy and risk assessments and update as necessary when situations, legal requirements or work activities change. This will be carried out at least annually, taking into account performance and effectiveness of control measures.
 - Changes to Policy will be approved by the NetNodes Board.
 
-### General Arrangements
+---
+
+## General Arrangements
 
 Further Health and Safety Executive guidance can be downloaded from the [HSE website](https://www.hse.gov.uk/pubns)
 
-#### Health and safety law information  
+### Health and safety law information  
 More information is available at [HSE Health and Safety Law leaflet (PDF)](https://policy.netnodes.net/assets/files/HSE_Health_and_Safety_Law.pdf).
 
-#### Employers Liability Insurance
+### Employers Liability Insurance
 The annual certificate is available to all employees on request.
  
-#### Accidents and ill health at work reportable under RIDDOR
+### Accidents and ill health at work reportable under RIDDOR
 Responsibility: Director of Finance & Operations
 
 See also
