@@ -14,6 +14,10 @@ NetNodes Limited (“NetNodes,” “we,” “our,” or “us”) is committed
 
 We aim to be clear, simple, and transparent. This notice also explains your rights under UK data protection law.  
 
+NetNodes Limited is the **data controller** for the personal data described in this notice - data we collect through our own websites, and in the course of dealing with customers, suppliers and enquiries.
+
+Where we hold personal data inside DoorFlow or PassFlow on a customer's behalf, we act as a **data processor** and the customer is the controller. That relationship is governed by our [Data Processing Agreement](dpa), and each product has its own privacy notice: [DoorFlow](https://policy.doorflow.com/privacy) and [PassFlow](https://policy.passflow.io/privacy).  
+
 ---
 
 ## 1. Information We Collect  
@@ -31,6 +35,11 @@ We collect information to provide you with our services, communicate with you, a
 **c. Usage Information:**  
 - Pages visited, links clicked, time spent on site.  
 - Interactions with emails, downloads, or newsletters.  
+
+**d. Information from Third Parties:**  
+- Publicly available sources, such as company websites and registers.  
+- Business contact information from partners, resellers and referrals.  
+- Where we receive personal data about you from a third party, we tell you so within a month of obtaining it, or at the point we first contact you, whichever comes first.  
 
 ---
 
@@ -56,7 +65,7 @@ We treat this at the level of the **organisation, not the individual**. In parti
 
 Where we use analytics cookies for this, they are set only after you have consented, and are described in our [Cookie Policy](cookies).  
 
-We rely on legitimate interest for this measurement. You can object at any time using the contact details in section 12, and you can decline analytics cookies without affecting your use of our websites.  
+We rely on legitimate interest for this measurement. You can object at any time using the contact details in section 13, and you can decline analytics cookies without affecting your use of our websites.  
 
 ---
 
@@ -84,7 +93,7 @@ Our [sub-processors](subprocessors) are published in full, and our [Data Process
 
 ## 6. International Data Transfers  
 
-Where personal data is transferred outside the UK or European Economic Area, we ensure appropriate safeguards such as standard contractual clauses, encryption, or other legally recognised measures.  
+Where personal data is transferred outside the UK or European Economic Area, we ensure appropriate safeguards such as the International Data Transfer Agreement, UK Addendum to the EU standard contractual clauses, encryption, or other legally recognised measures. You can request a copy of the safeguards that apply to a particular transfer by emailing **privacy@netnodes.net**.  
 
 ---
 
@@ -102,8 +111,8 @@ While we take every reasonable step, no system is completely secure.
 ## 8. Data Retention  
 
 We retain personal data only for as long as necessary to fulfil the purposes outlined in this notice, or as required by law:  
-- Account or contact information: retained until deletion or withdrawal of consent.  
-- Legal or financial records: retained for statutory periods (usually 6–7 years).  
+- Account or contact information: retained while the relationship is active, and for two years after our last meaningful contact with you, unless you ask us to delete it sooner.  
+- Legal or financial records: retained for statutory periods (usually 6 to 7 years).  
 - Analytics and anonymised data: retained indefinitely in anonymised form.  
 
 ---
@@ -119,6 +128,10 @@ You have rights under UK data protection law:
 - **Withdraw consent:** for marketing communications.  
 
 To exercise these rights, contact **privacy@netnodes.net**.  
+
+You also have the right to complain to the Information Commissioner's Office, the UK supervisory authority for data protection, at [ico.org.uk/make-a-complaint](https://ico.org.uk/make-a-complaint/). We would ask you to raise it with us first, so that we have the chance to put it right.  
+
+**Automated decision-making.** We do not make decisions about you by automated means that produce legal effects or similarly significant effects, and we do not carry out profiling of that kind. The measurement described in section 3 records that an organisation visited our websites; it makes no decision about any individual.  
 
 ---
 

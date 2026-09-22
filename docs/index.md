@@ -6,16 +6,24 @@ Our policies are designed to be clear, transparent, and respectful of the indivi
 
 ---
 
+## Privacy and Data Protection
+
+How we handle personal data, as a company and on behalf of our customers.
+
+* [Privacy Notice](privacy)
+* [Use of Cookies](cookies)
+* [Data Processing Agreement](dpa)
+* [Sub-processors](subprocessors)
+
+---
+
 ## Corporate Policies
 
 These policies set out how we operate as a company and how we meet our legal, ethical, and environmental obligations.
 
 * [Corporate & Social Responsibility](corporate_social_responsibility)
-* [Privacy](privacy)
-* [Data Processing Agreement](dpa)
 * [Equal Opportunities](equal_opportunities)
 * [Environmental](environmental)
-* [Use of Cookies](cookies)
 * [Terms of Sale](terms)
 
 ---
@@ -31,4 +39,4 @@ DoorFlow and PassFlow have their own terms of service and service commitments.
 
 ## Our Commitment
 
-We want our policies to be easy to understand and simple to navigate. If you have questions about any document on this site, please contact our support team or email our Data Protection Officer.
+We want our policies to be easy to understand and simple to navigate. If you have questions about any document on this site, please contact us at [privacy@netnodes.net](mailto:privacy@netnodes.net).
