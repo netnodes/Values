@@ -64,7 +64,7 @@ Depending on Customer configuration:
 - Name, email, phone, profile photo (optional)  
 - Digital pass information (PassFlow)  
 - Access credentials and identifiers  
-- Access control events (DoorFlow)  
+- Activity data - access control events (DoorFlow)  
 - System log data  
 - User permissions, roles, and groups  
 - Device identifiers and API usage
