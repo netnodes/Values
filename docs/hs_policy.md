@@ -1,5 +1,7 @@
 ---
 go_back: true
+# Internal HR policy: published for staff, not for search engines.
+noindex: true
 ---
 
 # NetNodes Health & Safety Policy
