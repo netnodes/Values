@@ -1,3 +1,7 @@
+---
+# The index of internal policies: published for staff, not for search engines.
+noindex: true
+---
 # Corporate
 
 ### Public
